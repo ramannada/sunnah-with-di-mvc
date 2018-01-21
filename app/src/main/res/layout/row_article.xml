@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:layout_marginBottom="5dp">
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Renungan #11, Benarkah Musibah itu Karena Dosa Kita?"/>
+    <TextView
+        android:id="@+id/tv_tag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="renungan ayat renungan qur'an"/>
+    <TextView
+        android:id="@+id/tv_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Benarkah musibah itu datang karena dosa? Allah Ta&#8217;ala berfirman, \u200eمَّا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللَّهِ وَمَا أَصَابَكَ مِن سَيِّئَةٍ فَمِن نَّفْسِكَ وَأَرْسَلْنَاكَ لِلنَّاسِ رَسُولًا وَكَفَىٰ بِاللَّهِ شَهِيدًا &#8220;Apa saja nikmat yang kamu peroleh adalah dari Allah, dan apa saja bencana yang menimpamu, maka dari (kesalahan) dirimu sendiri. Kami mengutusmu menjadi Rasul kepada segenap manusia. Dan cukuplah Allah menjadi saksi.&#8221; (QS. An-Nisaa&#8217;: 79) Jika ada yang mendapatkan kebaikan maka ketahuilah itulah karunia dari Allah. Kita harus meyakini demikian. Namun jika kita mendapatkan musibah, maka ketahuilah itu karena dosa kita. Sedangkan Rasul diutus untuk menyampaikan risalah pada manusia. Allah menjadi saksi akan benarnya risalah tersebut. Demikian keterangan singkat dari Tafsir Al-Jalalain dan Tafsir Al-Muyassar. Semoga jadi renungan berharga di Ramadhan kali ini. &#8212; Ditulis di Kota Madinah, 5 Ramadhan 1438 H Oleh: Muhammad Abduh Tuasikal Artikel Rumaysho.Com Print PDF"/>
+
+</LinearLayout>
