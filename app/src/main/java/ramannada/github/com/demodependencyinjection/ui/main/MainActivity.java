@@ -15,7 +15,6 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import ramannada.github.com.demodependencyinjection.R;
 import ramannada.github.com.demodependencyinjection.data.entity.Article;
-import ramannada.github.com.demodependencyinjection.data.entity.Mahasiswa;
 import ramannada.github.com.demodependencyinjection.model.SharedData;
 import ramannada.github.com.demodependencyinjection.ui.adapters.MainAdapter;
 
@@ -77,7 +76,7 @@ public class MainActivity extends AppCompatActivity implements MainView{
     }
 
     @Override
-    public void updateItem(List<Mahasiswa> mahasiswas) {
+    public void updateItem(List<Article> articles) {
 
     }
 }

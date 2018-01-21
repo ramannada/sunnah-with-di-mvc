@@ -11,7 +11,6 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import ramannada.github.com.demodependencyinjection.R;
 import ramannada.github.com.demodependencyinjection.data.entity.Article;
-import ramannada.github.com.demodependencyinjection.data.entity.Mahasiswa;
 
 /**
  * Created by ramannada on 1/19/2018.
